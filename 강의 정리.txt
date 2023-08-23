@@ -8,3 +8,6 @@
 2. 프리펩으로 다양한 동글 생성하기
 - IEnumerator에서 yield 없이 while을 돌리면 무한루프에 빠져 유니티가 멈춘다.
 - Interpolate: 이전 프레임을 비교하여 움직임을 부드럽게 보정
+
+3. 물리이벤트로 동글 합치기
+- Auto Sync Transform: 트랜스폼과 물리의 차이를 보정
