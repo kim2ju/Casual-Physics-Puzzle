@@ -4,3 +4,7 @@
 - Rigidbody 2D => Simulate 끄기: 물리 활동 중지
 - Vector3.Lerp: 목표지점으로 부드럽게 이동
 - Event Trigger
+
+2. 프리펩으로 다양한 동글 생성하기
+- IEnumerator에서 yield 없이 while을 돌리면 무한루프에 빠져 유니티가 멈춘다.
+- Interpolate: 이전 프레임을 비교하여 움직임을 부드럽게 보정
