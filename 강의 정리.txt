@@ -1,0 +1,6 @@
+1. 물리기반 퍼즐 밑바탕 만들기
+- 바닥, 벽: Rigidbody 2D => Body Type => Static
+- Camera.main.ScreenToWorldPoint: 스크린 좌표를 월드로 변환
+- Rigidbody 2D => Simulate 끄기: 물리 활동 중지
+- Vector3.Lerp: 목표지점으로 부드럽게 이동
+- Event Trigger
