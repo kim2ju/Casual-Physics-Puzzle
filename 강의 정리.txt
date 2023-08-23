@@ -11,3 +11,16 @@
 
 3. 물리이벤트로 동글 합치기
 - Auto Sync Transform: 트랜스폼과 물리의 차이를 보정
+
+4. 멋진 이펙트 만들기
+- Effects -> Particle System
+  - Emission: 입자가 퍼지는 타입과 양
+  - Shape: 입자가 퍼지는 모양
+  - Texture Sheet Animation: 입자를 스프라이트로 애니메이팅
+  - Start Speed: 입자 기본 속도
+  - Start Lifetime: 입자 기본 지속시간
+  - Play On Awake: 파티클이 활성화 될 때 자동 플레이 옵션
+  - Limited Velocity over Lifetime: 시간에 따른 속도 제어
+  - Size over Lifetime: 시간에 따른 입자 크기 변화
+  - Color over Lifetime: 시간에 따른 입자 색상 변화
+  - Trails: 입자에 꼬리 혹은 리본 효과 추가
