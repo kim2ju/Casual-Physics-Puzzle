@@ -1040,7 +1040,7 @@ GameObject:
   - component: {fileID: 1133138083}
   m_Layer: 0
   m_Name: Line
-  m_TagString: Untagged
+  m_TagString: Finish
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1191,7 +1191,9 @@ MonoBehaviour:
   dongleGroup: {fileID: 1837862931}
   effectPrefab: {fileID: 1428327312418087812, guid: 7df04640dcdc3384b82bde405ddd3d26, type: 3}
   effectGroup: {fileID: 569714726}
+  score: 0
   maxLevel: 2
+  isOver: 0
 --- !u!4 &1576951256
 Transform:
   m_ObjectHideFlags: 0

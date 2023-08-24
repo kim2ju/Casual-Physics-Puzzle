@@ -24,3 +24,7 @@
   - Size over Lifetime: 시간에 따른 입자 크기 변화
   - Color over Lifetime: 시간에 따른 입자 색상 변화
   - Trails: 입자에 꼬리 혹은 리본 효과 추가
+
+5. 게임오버 구현하기
+- Sleeping Mode: 물리연산을 멈추고 쉬는 상태 모드 설정
+- FindObjectsOfType<T>: 장면에 올라온 T 컴포넌트들을 탐색
